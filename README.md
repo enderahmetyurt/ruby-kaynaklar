@@ -24,6 +24,7 @@
 ### Video
 
 * :movie_camera: [Adım adım Ruby](https://www.youtube.com/playlist?list=PLqgPe8mz0dh7pKD5AnNRjveNKuBhnfaKw)
+* [A'dan Z'ye Ruby Programlama Udemy Kursu](https://www.udemy.com/a-dan-zye-ruby-programlama/)
 
 ### Topluluklar
 
